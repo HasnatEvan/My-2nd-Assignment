@@ -181,6 +181,16 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
   /*2nd part*/
 
 
@@ -336,3 +346,312 @@
     border: none;
     border-radius: 15px;
   }
+
+
+
+
+  /*part 4*/
+  .section-4{
+    max-width: 1440px;
+    height: 800px;
+    background-color: black;
+    margin-top: -2pc;
+
+    
+  
+
+  }
+  .part-4{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 50px;
+
+  }
+  .head-4{
+    color: rgba(255, 255, 255, 1);
+
+    
+
+  }
+  .para-4{
+    color: rgba(255, 255, 255, 0.5);
+
+  }
+.div-4{
+  display: flex;
+  justify-content: space-between;
+  max-width: 1440px;
+  height: 480px;
+  background-color:rgba(34, 34, 34, 1);
+ 
+  border: none;
+  
+
+}
+.table-had{
+  font-size: 1.75rem;
+  color: white;
+}
+.bim{
+  color: white;
+}
+.cal-had{
+  color: white;
+}
+.cal-pp{
+  color: rgba(255, 255, 255, 0.5);
+}
+
+.main-dada{
+  margin-top: 100px;
+  margin-left: 150px;
+  
+}
+
+
+
+.main-dad{
+ max-width: 580px;
+ height: 385px;
+ border: none;
+ margin-right: 150px;
+ margin-top: 100px;
+ text-align: left;
+ 
+}
+
+.mm-had{
+  text-align: left;
+  color: white;
+  font-size: 1.75rem;
+}
+.mm-cc{
+   text-align: left ;
+   font-size: 14px;
+   color: rgba(255, 255, 255, 0.5);
+}
+
+.btn-ss{
+  padding: 10px;
+  padding-right: 100px;
+  background-color: rgba(255, 255, 255, 0.1);
+  border: none;
+  border-radius: 8px;
+  color: rgba(255, 255, 255, 0.6);
+}
+.btn-999{
+  margin-top: 20px;
+  padding: 10px ;
+  padding-right: 138px;
+  background-color: rgba(255, 255, 255, 0.1);
+  border: none;
+  border-radius: 8px;
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.btn-last{
+  margin-top: 20px;
+  padding: 10px ;
+  padding-right: 198px;
+  background-color: rgba(255, 255, 255, 0.1);
+  border: none;
+  border-radius: 8px;
+  color: rgba(255, 255, 255, 0.6);
+ 
+
+}
+.btn-lastt{
+  margin-top: 30px;
+  margin-right: 250px;
+  padding: 12px 20px;
+background-color: #E6533C;
+border: none;
+border-radius: 8px;
+color: aliceblue;
+ 
+}
+
+
+
+
+
+
+
+
+
+
+/*part 6*/
+
+.main-dadd{
+  max-width: 1440px;
+  height: 900px;
+  margin-top: -5pc;
+  background-color: black;
+
+}
+
+.cont-9{
+  text-align: center;
+  margin-top: 70px;
+
+
+}
+
+.hitttt-00{
+  color: azure;
+  font-weight: 3rem;
+
+
+}
+.hitttt-01{
+  color: rgba(255, 255, 255, 0.5);
+}
+
+
+
+
+
+
+.cont-8{
+  margin-top: 80px;
+  margin-left: 65px;
+  max-width: 1060px;
+  height: 655px;
+  background-color: rgba(150, 139, 139, 0.2);
+ border: none;
+}
+
+
+
+
+.trin{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+
+.thing{
+  margin-top: 30px;
+  max-width: 326px;
+  height: 272px;
+  border: none;
+  border-radius: 10px;
+}
+
+.trin-00{
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 50px;
+
+}
+
+
+#trin-4{
+  padding-right: 20px;
+  max-width: 326px;
+  height: 272px;
+  border: none;
+  border-radius: 10px;
+}
+#trin-5{
+  max-width: 326px;
+  height: 272px;
+  border: none;
+  border-radius: 10px;
+}
+#trin-6{
+  max-width: 326px;
+  height: 272px;
+  border: none;
+  border-radius: 10px;
+}
+
+.kali{
+  margin-top: -5pc;
+ 
+}
+
+
+
+
+
+.name-taile{
+  color: aliceblue;
+  font-size: 1.25rem;
+ 
+
+}
+
+
+.ttn{
+  margin-top: -1pc;
+  color: rgba(255, 255, 255, 0.5);
+}
+
+
+
+/*part 7*/
+.main-footer{
+  max-width: 1440px;
+  height: 460px;
+ 
+  background-color:  rgb(56, 48, 48);
+
+}
+
+
+.main-footer-00{
+  display: flex;
+  justify-content: space-around;
+  padding-top: 80px;
+  color: azure;
+ 
+}
+
+
+
+.div-9{
+
+
+}
+
+.footer-had{
+  font-size: 4.375rem ;
+  color: #E6533C;
+
+}
+
+.footer-pp{
+  
+  color: rgba(255, 255, 255, 0.5);
+}
+
+
+
+
+.foot-tag{
+
+}
+
+.foot-hhed{
+  font-size: 2rem;
+}
+
+.pppp{
+  color: rgba(255, 255, 255, 0.5);
+}
+
+
+.hori{
+ margin-top: 70px;
+ margin-left: 50px;
+  max-width: 1080px;
+  border: 1.5px solid rgba(255, 255, 255, 0.1);
+}
+
+
+.last-line{
+  text-align: center;
+  color: rgba(255, 255, 255, 0.5);
+  font-size: 1.25rem;
+}
